@@ -1,7 +1,7 @@
 # audioclass
 Baby cry audio classification model
 
-# Introduction
+# About
 
 
 I have created an audio classification API for classifying baby cry and Web App.What this app do is that,I have created a model trained with baby cry audio files attached with the reason for crying.The webapp is capable of classifing audio files based on this model.
