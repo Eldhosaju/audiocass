@@ -1,10 +1,10 @@
-# audiocass
+# audioclass
 Baby cry audio classification model
 
 # Introduction
 
 
-I have created an audio classification API for classifing baby cry and Web App.What this app do is that,I have created a model trained with baby cry audio files attached with the reason for crying.The webapp is capable of classifing audio files based on this model.
+I have created an audio classification API for classifying baby cry and Web App.What this app do is that,I have created a model trained with baby cry audio files attached with the reason for crying.The webapp is capable of classifing audio files based on this model.
 
 Well if you want to make your code available to the world you need to make it accessible from the web. There are 2 main ways you can do this:
 
